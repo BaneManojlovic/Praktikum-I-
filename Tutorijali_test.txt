@@ -1,0 +1,75 @@
+
+Test - Testiranje tutorijala
+Test05 zapocet
+
+Krug:  1
+Klik na meni
+Klik na tutorijal
+Swipe s desna na levo tri puta
+Swipe s leva na desno tri puta
+Swipe s desna na levo tri puta
+klik na dugme
+Krug:  2
+Klik na meni
+Klik na tutorijal
+Swipe s desna na levo tri puta
+Swipe s leva na desno tri puta
+Swipe s desna na levo tri puta
+klik na dugme
+Krug:  3
+Klik na meni
+Klik na tutorijal
+Swipe s desna na levo tri puta
+Swipe s leva na desno tri puta
+Swipe s desna na levo tri puta
+klik na dugme
+Krug:  4
+Klik na meni
+Klik na tutorijal
+Swipe s desna na levo tri puta
+Swipe s leva na desno tri puta
+Swipe s desna na levo tri puta
+klik na dugme
+Krug:  5
+Klik na meni
+Klik na tutorijal
+Swipe s desna na levo tri puta
+Swipe s leva na desno tri puta
+Swipe s desna na levo tri puta
+klik na dugme
+Krug:  6
+Klik na meni
+Klik na tutorijal
+Swipe s desna na levo tri puta
+Swipe s leva na desno tri puta
+Swipe s desna na levo tri puta
+klik na dugme
+Krug:  7
+Klik na meni
+Klik na tutorijal
+Swipe s desna na levo tri puta
+Swipe s leva na desno tri puta
+Swipe s desna na levo tri puta
+klik na dugme
+Krug:  8
+Klik na meni
+Klik na tutorijal
+Swipe s desna na levo tri puta
+Swipe s leva na desno tri puta
+Swipe s desna na levo tri puta
+klik na dugme
+Krug:  9
+Klik na meni
+Klik na tutorijal
+Swipe s desna na levo tri puta
+Swipe s leva na desno tri puta
+Swipe s desna na levo tri puta
+klik na dugme
+Krug:  10
+Klik na meni
+Klik na tutorijal
+Swipe s desna na levo tri puta
+Swipe s leva na desno tri puta
+Swipe s desna na levo tri puta
+klik na dugme
+Kraj testa!
